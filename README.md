@@ -6,5 +6,6 @@
 ## paragraph ##
 >*A new paragraph was craeted using < p > tag*
  ## css styling ##
->*It has been styled using an external .css file.*
+>*It has been styled using an external .css file.* <br>
+>*Added Font family and Font Style to paragraph and Header respectively*
 
